@@ -5,11 +5,11 @@ Introduction
 MTN Côte d'Ivoire (MTNCI) is an Ivorian telecommunications provider that offers postpaid and prepaid GSM services, including fixed line, mobile, and internet. MTN Côte d'Ivoire (MTNCI) is a part of the MTN Group, based in South Africa.
 
 ### OBJECTIVE
-"How should MTN go about upgrading its infrastructure plan within the cities?" is the research topic for this project. In order to break down the processes and various tactics, one will use the CRISP-DM technique. One will also use python programming to aid in comprehending how the analysis was carried out and prompting recommendations to help MTN Cote d'Ivoire  figure out the best way for it to undertake the required modifications. Some questions to get one tarted;
+"How should MTN go about upgrading its infrastructure plan within the cities?" is the research topic for this project. In order to break down the processes and various tactics, one will use the CRISP-DM technique. One will also use python programming to aid in comprehending how the analysis was carried out and prompting recommendations to help MTN Cote d'Ivoire  figure out the best way for it to undertake the required modifications. Some questions to get one started;
 
 1. Which ones were the most used city for the three days?
-2.Which cities were the most used during business and home hours?
-3.Most used city for the three days?
+2. Which cities were the most used during business and home hours?
+3. Most used city for the three days?
 
 ### PROCEDURE
 1. Data Preparation
