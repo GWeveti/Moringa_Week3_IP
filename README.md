@@ -24,7 +24,7 @@ It involves selection of modeling methodologies and the identification of a mode
 
 Evaluation is then done to aid in the determination of the data's accuracy and its importance. It determines whether the conclusions gained from the data presented, after analysis, meet the research question's objectives.
 
-6. Recommendation
+4. Recommendation
 
 One will then provide recommendations based on the research issue to help MTN Cote d'Ivoire go about the upgrade of its infrastructure strategy within the given cities.
 
